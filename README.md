@@ -22,4 +22,4 @@ All financial transactions for "Premium Unlock" are handled securely by the Goog
 We use Google Play Services for app stability and billing. These services may collect information as described in Google’s own Privacy Policy.
 
 6. CONTACT US
-If you have any questions about this Privacy Policy, please contact KhangLabs at: [EMAIL CỦA BẠN Ở ĐÂY]
+If you have any questions about this Privacy Policy, please contact KhangLabs at: [khang.98.xyz.vn@gmail.com]
